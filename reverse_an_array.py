@@ -1,5 +1,5 @@
 
-#* 1. Reverse an array in place
+#* Reverse an array in place
 
 def reverseArray(array):
     start, end = 0, len(array)-1
